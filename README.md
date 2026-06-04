@@ -39,8 +39,3 @@ python StudentDBMS.py
 * Implementing CRUD operations
 * Building menu-driven applications
 * Enhancing problem-solving and programming skills
-
-## Author
-
-Surekha
-Aspiring Software Developer
